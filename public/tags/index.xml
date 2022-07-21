@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Etiqueta - AFA Hortons</title>
+        <link>https://github.com/cibermosso/webampa/tags/</link>
+        <description>Tags - Etiqueta - AFA Hortons</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 21 Jul 2022 11:19:56 &#43;0100</lastBuildDate><atom:link href="https://github.com/cibermosso/webampa/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>HTML</title>
+    <link>https://github.com/cibermosso/webampa/tags/html/</link>
+    <pubDate>Thu, 21 Jul 2022 11:19:56 &#43;0100</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://github.com/cibermosso/webampa/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Markdown</title>
+    <link>https://github.com/cibermosso/webampa/tags/markdown/</link>
+    <pubDate>Thu, 21 Jul 2022 11:19:56 &#43;0100</pubDate><author>
+        <name>Autor</name>
+    </author><guid>https://github.com/cibermosso/webampa/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

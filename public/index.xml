@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AFA Hortons</title>
+        <link>https://github.com/cibermosso/webampa/</link>
+        <description>AFA Hortons</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 21 Jul 2022 11:19:56 &#43;0100</lastBuildDate>
+            <atom:link href="https://github.com/cibermosso/webampa/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Extraescolar Angles</title>
+    <link>https://github.com/cibermosso/webampa/posts/extraescolarangles/extraescolar_angles/</link>
+    <pubDate>Thu, 21 Jul 2022 11:19:56 &#43;0100</pubDate><author>
+        <name>false</name>
+    </author><guid>https://github.com/cibermosso/webampa/posts/extraescolarangles/extraescolar_angles/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/angles.webp" referrerpolicy="no-referrer">
+            </div>Nova activitat extraescolar d'Angles]]></description>
+</item></channel>
+</rss>
